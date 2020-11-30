@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://use.typekit.net/jon0yql.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Advent | Christian Parenting</title>
+  </head>
+  <body>
+    <header>
+        <div class="left">
+            <a href="/#"><img id="logo" src="img/joy-logo.png"></a>
+            <p class="right subtitle">A 15-Day Christmas Devotional for an Untraditional Year</p>
+        </div>
+        <div class="right buttons">
+            <button>Download the PDF</button>
+            <button>Visit Christian Parenting</button>
+        </div>
+    </header>
+    <div id="particles-js"></div>
+    <div class="wrapper">
+        <a href="https://google.com" class="white square">
+            <number class=tomato>1</number>
+        </a>
+        <a class="brown square">
+            <number class=white>2</number>
+        </a>
+        <a class="tomato square">
+            <number class=pink>3</number>
+        </a>
+        <a class="animated square">
+            <img src="img/day-4-gingerbread-man.png" alt="video-animation">
+        </a>
+        <a class="brown square">
+            <number class=pink>5</number>
+        </a>
+        <a class="tomato square">
+            <number class=white>6</number>
+        </a>
+        <a class="pink square">
+            <number class=tomato>7</number>
+        </a>
+        <a class="animated square">
+            <img src="img/day-8-lights-med-res.gif" alt="video-animation">
+        </a>
+        <a class="brown square">
+            <number class=pink>9</number>
+        </a>
+        <a class="tomato square">
+            <number class=white>10</number>
+        </a>
+        <a class="animated square">
+            <img src="img/day-11-house.gif" alt="video-animation">
+        </a>
+        <a class="tomato square">
+            <number class=white>12</number>
+        </a>
+        <a class="pink square">
+            <number class=brown>13</number>
+        </a>
+        <a class="animated square">
+            <img src="img/day-14-reindeer.png" alt="video-animation">
+        </a>
+        <a class="white square">
+            <number class=pink>15</number>
+        </a>
+    </div>
+    <footer>
+        <div class="left">
+            <a>CP Logo</a>
+            <p>From the hosts of the Christian Parenting Podcast Network</p>
+        </div>
+        <div class="right">
+            <p>Copyright 2020, Christian Parenting</p>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js">
+    </script>
+    <script src="main.js"></script>
+  </body>
+</html>
