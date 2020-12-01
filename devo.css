@@ -618,7 +618,7 @@ li a:hover {
     }
     
     .podcast-name {
-        max-width: 8em;
+        max-width: 486px;
     }
     
     .podcast-subtitle {
@@ -731,7 +731,7 @@ li a:hover {
     }
     
     .podcast-name {
-        font-size: 3.25em;
+        font-size: 3em;
     }
 }
 
