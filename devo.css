@@ -303,6 +303,7 @@ ol li::marker {
     color: darkgreen;
     text-align: center;
     margin-top: 2em;
+    font-size: 1.75em;
     margin-bottom: 2em;
 }
 
