@@ -18,10 +18,11 @@ canvas {
   vertical-align: bottom;
   width: 100% !important;
   height: 150% !important;
-
 }
 
-
+nav .desktop a {
+    font-size: 12px;
+}
 
 .button {
     font-family: inherit;
@@ -32,7 +33,7 @@ canvas {
     margin-left: 10px;
     font-size: 13px;
     text-decoration: none;
-text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 .buttons {
@@ -41,9 +42,6 @@ text-transform: uppercase;
 
 .subtitle {
     display: none;
-    font-size: 12px;
-    width: 200px;
-    margin-top: 35px;
 }
 
 #particles-js {
@@ -417,8 +415,8 @@ li a:hover {
     }
     
     .subtitle {
-        width: 200px;
-        margin-top: 67px;
+        width: 120px;
+        margin-top: 61px;
         font-size: 13px;
         display: block;
     }
@@ -458,6 +456,12 @@ li a:hover {
     }
 }
 
+@media only screen and (max-width: 880px) {
+    .subtitle {
+        width: 200px;
+    }
+}
+
 @media only screen and (min-width: 880px) {
     
     .burger-nav {
@@ -491,5 +495,14 @@ li a:hover {
     .wrapper {
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
         max-width: 1000px;
+    }
+    
+    nav .desktop a {
+        font-size: 13px;
+    }
+    
+    .subtitle {
+        width: 200px;
+        margin-top: 67px;
     }
 }
