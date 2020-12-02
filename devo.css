@@ -275,7 +275,7 @@ article p, article li {
 
 article li {
     margin-bottom: 1.8em;
-    font-size: 1em;
+    font-size: 1.25em;
 }
 
 ol {
@@ -303,6 +303,7 @@ ol li::marker {
     color: darkgreen;
     text-align: center;
     margin-top: 2em;
+    font-size: 1.75em;
     margin-bottom: 2em;
 }
 
